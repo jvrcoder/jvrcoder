@@ -1,9 +1,9 @@
-<h1>Hi there!, I'm Javier👋</h1>
+### Hi there!, I'm Javier👋
 
-<h2>🚀 About Me</h2>
+### 🚀 About Me
 
-### ⭐ I am a self-taught student passionate about learning and new technologies.
-
+⭐ I am a self-taught student passionate about learning and new technologies.
+🎓 With the new knowledge that I am acquiring I like to create new projects applying everything I have learned.
 
 <!--
 **jvrcoder/jvrcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
