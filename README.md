@@ -4,10 +4,13 @@
 
   ⭐ I am a self-taught student passionate about learning and new technologies.
 <br>
+<br/>
   🎓 With the new knowledge that I am acquiring I like to create new projects applying everything I have learned.
 <br>
+<br/>
   🎮 Outside the programming world I also like to create "3d art", especially when it comes to creating assets for videogames.
 <br>
+<br/>
 ### 📚 Software Development Philosophy
 
 <h6>My philosophy about software development is that this process is much more than just writing code. It is a magical moment in which an idea can be transformed into something tangible that can improve the lives of many people.
