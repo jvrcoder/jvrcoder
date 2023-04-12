@@ -14,7 +14,7 @@
   🎮 Outside the programming world I also like to create "3d art", especially when it comes to creating assets for videogames.
 <br>
 <br>
-Open Source Lover
+  ♥️ Open Source Lover
 <br>
 ### 📚 Software Development Philosophy
 
