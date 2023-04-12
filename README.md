@@ -1,5 +1,6 @@
 ### Hi there!, I'm Javier👋
 
+<br>
 <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" style="width: 150px; height: 160px;">
 
 ### 🚀 About Me
