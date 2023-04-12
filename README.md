@@ -3,6 +3,7 @@
 ### 🚀 About Me
 
 ⭐ I am a self-taught student passionate about learning and new technologies.
+<br>
 🎓 With the new knowledge that I am acquiring I like to create new projects applying everything I have learned.
 
 <!--
