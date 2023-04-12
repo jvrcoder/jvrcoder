@@ -1,6 +1,10 @@
 <h1>Hi there!, I'm Javier👋</h1>
 
-<h2>👇 About Me</h2>
+<h2>🚀 About Me</h2>
+
+### ⭐ I am a self-taught student passionate about learning and new technologies.
+
+
 <!--
 **jvrcoder/jvrcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
