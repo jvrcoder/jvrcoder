@@ -38,6 +38,7 @@ It is also important to keep in mind that software is not a static entity. It mu
 - Git/GitHub
 - GNU/Linux
 - Programming
+- Unity 3d
 
 ### 🔴 Languajes:
 
