@@ -14,7 +14,7 @@
   🎮 Outside the programming world I also like to create "3d art", especially when it comes to creating assets for videogames.
 <br>
 <br>
-  ♥️ Open Source Lover
+  ♥️ Open Source Lover.
 <br>
 ### 📚 Software Development Philosophy
 
@@ -29,6 +29,8 @@ However, for software to be truly beneficial, it is important to have a collabor
 <br/>
 It is also important to keep in mind that software is not a static entity. It must evolve and adapt as the needs of users change.
 </h6>
+
+### 💻 Skills and Languajes
 
 
 
