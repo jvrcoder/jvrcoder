@@ -1,4 +1,6 @@
 <h1>Hi there!, I'm Javier👋</h1>
+
+<hr>
 <!--
 **jvrcoder/jvrcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
