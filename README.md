@@ -34,10 +34,18 @@ It is also important to keep in mind that software is not a static entity. It mu
 
 ### ⚫ Skills:
 
-### - Blender
-### - Git/GitHub
-### - GNU/Linux
-### - 
+- Blender
+- Git/GitHub
+- GNU/Linux
+- Programming
+
+### 🔴 Languajes:
+
+- Python
+- Bash Scripting
+- HTML5
+- CSS
+- C#
 <!--
 **jvrcoder/jvrcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
